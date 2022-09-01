@@ -13,6 +13,7 @@ A curated list of resources for molecular graph representation learning (Stay tu
 | 2020 | **Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures (MXMNet)**  | NeurIPS 2020 |  [Link](https://arxiv.org/pdf/2011.07457v1.pdf)  | [Link](https://github.com/zetayue/MXMNet) |
 | 2020 | **Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules (DimeNet++)**  | NeurIPS 2020 workshop |  [Link](https://arxiv.org/pdf/2011.14115.pdf)  | [Link](https://www.daml.in.tum.de/dimenet) |
 | 2020 | **Directional Message Passing for Molecular Graphs (DimeNet)**  | ICLR 2020 |  [Link](https://arxiv.org/pdf/2003.03123.pdf)  | [Link](https://github.com/akirasosa/pytorch-dimenet?utm_source=catalyzex.com) |
+| 2020 | **Strategies for pre-training graph neural networks** | ICLR 2020 | [link](https://arxiv.org/pdf/1905.12265) | [link](https://github.com/snap-stanford/pretrain-gnns/) |
 | 2020 | **Hierarchical inter-message passing for learning on molecular graphs (HIMP)** | ICML 2020 workshop | [link](https://arxiv.org/pdf/2006.12179)                     | [link](https://github.com/rusty1s/himp-gnn)                  |
 | 2019 | **Molecular property prediction: A multilevel quantum interactions modeling perspective (MGCN)** | AAAI 2019 | [link](https://ojs.aaai.org/index.php/AAAI/article/download/3896/3774) | - |
 | 2017 | **Neural message passing for quantum chemistry (MPNN)**  | ICML 2017 |  [Link](https://arxiv.org/pdf/1704.01212.pdf) | [Link](https://github.com/brain-research/mpnn) |
