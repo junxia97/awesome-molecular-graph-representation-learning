@@ -7,6 +7,7 @@ A curated list of resources for molecular graph representation learning (Stay tu
 | 2022 |**Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks.**|ICML 2022|[Link](https://proceedings.mlr.press/v162/yu22a.html) | [Link](https://github.com/ZhaoningYu1996/HM-GNN) |
 | 2022 | **Chemical-reaction-aware molecule representation learning.**| ICLR 2022 |  [Link](https://blender.cs.illinois.edu/paper/moleculerepresentation2022.pdf)  | [Link](https://github.com/hwwang55/MolR?utm_source=catalyzex.com) |
 | 2022 | **Spherical message passing for 3d molecular graphs. (SphereNet)** | ICLR 2022 |  [Link](https://openreview.net/pdf?id=givsRXsOt9r)  | [Link](https://github.com/divelab/DIG) |
+| 2022 | **An autoregressive flow model for 3d molecular geometry generation from scratch (G-SphereNet)** | ICLR 2022 | [link](https://openreview.net/pdf?id=C03Ajc-NS5W) | [link](https://github.com/divelab/DIG) |
 | 2021 | **Deep Molecular Representation Learning via Fusing Physical and Chemical Information**  | NeurIPS 2021  |  [Link](https://proceedings.neurips.cc/paper/2021/file/884d247c6f65a96a7da4d1105d584ddd-Paper.pdf)  | - |
 | 2021 | **Motif-based Graph Self-Supervised Learning for Molecular Property Prediction (MGSSL)** | NeurIPS 2021 | [link](https://proceedings.neurips.cc/paper/2021/file/85267d349a5e647ff0a9edcb5ffd1e02-Paper.pdf) | [link](https://github.com/zaixizhang/MGSSL) |
 | 2021 | **MOTIF-Driven Contrastive Learning of Graph Representations (MOTIF)** | AAAI 2021 | [link](https://www.aaai.org/AAAI21Papers/UC-77.SubramonianA.pdf) | - |
