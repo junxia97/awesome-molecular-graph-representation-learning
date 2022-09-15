@@ -5,6 +5,7 @@ A curated list of resources for molecular graph representation learning (Stay tu
 |-------|--------|--------|--------|-----------|
 | 2022 |**Motif-based Graph Representation Learning with Application to Chemical Molecules.**|arXiv 2022|[Link](https://arxiv.org/abs/2208.04529)  | [Link](https://github.com/yifeiwang15/MotifConv) |
 | 2022 |**Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**|arXiv 2022|[link](https://arxiv.org/pdf/2206.11990) | - |
+| 2022 |**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs (ComENet)**|NeurIPS 2022|[link](https://deepai.org/publication/comenet-towards-complete-and-efficient-message-passing-for-3d-molecular-graphs) | [link](https://github.com/divelab/DIG) |
 | 2022 |**Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks.**|ICML 2022|[Link](https://proceedings.mlr.press/v162/yu22a.html) | [Link](https://github.com/ZhaoningYu1996/HM-GNN) |
 | 2022 | **Chemical-reaction-aware molecule representation learning.**| ICLR 2022 |  [Link](https://blender.cs.illinois.edu/paper/moleculerepresentation2022.pdf)  | [Link](https://github.com/hwwang55/MolR?utm_source=catalyzex.com) |
 | 2022 | **Spherical message passing for 3d molecular graphs. (SphereNet)** | ICLR 2022 |  [Link](https://openreview.net/pdf?id=givsRXsOt9r)  | [Link](https://github.com/divelab/DIG) |
