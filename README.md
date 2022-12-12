@@ -3,6 +3,7 @@ A curated list of resources for molecular graph representation learning (Stay tu
 
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 |**Learning Substructure Invariance for Out-of-Distribution Molecular Representations**| NeurIPS 2022| [Link](https://openreview.net/forum?id=2nWUNTnFijm)  | [Link](https://github.com/yangnianzu0515/MoleOOD) |
 | 2022 |**Motif-based Graph Representation Learning with Application to Chemical Molecules**|arXiv 2022|[Link](https://arxiv.org/abs/2208.04529)  | [Link](https://github.com/yifeiwang15/MotifConv) |
 | 2022 |**Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**|arXiv 2022|[link](https://arxiv.org/pdf/2206.11990) | - |
 | 2022 |**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs (ComENet)**|NeurIPS 2022|[link](https://deepai.org/publication/comenet-towards-complete-and-efficient-message-passing-for-3d-molecular-graphs) | [link](https://github.com/divelab/DIG) |
